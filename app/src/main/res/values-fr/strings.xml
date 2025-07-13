@@ -14,6 +14,6 @@
     <string name="people">Personnes</string>
     <string name="channels">Canaux</string>
     <string name="online_users">Utilisateurs en ligne</string>
-    <string name="no_one_connected">Personne connecté</string>
+    <string name="no_one_connected">Personne n'est connecté</string>
     <string name="emergency_clear_hint">Appuyer trois fois pour effacer toutes les données</string>
 </resources>
